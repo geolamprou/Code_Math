@@ -2,7 +2,6 @@
 
 # Libraries
 library(dplyr)
-library(ggplot2)
 
 # Set a function for solving quadratic equation
 
@@ -27,14 +26,7 @@ quadratic <- function(a,b,c) {
   }
 }
 
-plot_of_function <- function(a,b,c) {
-  x <- seq(-1000,1000,by=100)
-  y<- a*(x^2) + (b*x) +c
-  plot(y)
-}
-
 quadratic(1, 4, 4)
-plot_of_function(1,100,70)
 
 
 
