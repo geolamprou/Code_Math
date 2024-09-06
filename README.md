@@ -1,7 +1,7 @@
 <h1 align="center">Math in Coding</h1>
 
 <p align="center">
-    <img width="200" src="" alt="Material Bread logo">
+    <img width="500" height = "300" src="https://github.com/user-attachments/assets/fcd0eb21-e8ea-41f8-852f-1d7527a48ef3" alt="Material Bread logo">
 </p>
 
 ## The Aim of the Project
